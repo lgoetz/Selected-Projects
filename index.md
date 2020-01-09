@@ -1,5 +1,3 @@
-# Selected Projects
-
 ## ML/AI PROJECTS
 
 ### TWO-PLAYER BOARD GAME AI | Java framework
@@ -54,7 +52,7 @@ I designed mini projects for ’Scientific Programming in Python’ course, e.g.
 I write accessible articles about news, ethical & policy issues in reproduction, genetics & stem cell research.
 
 ### SHOGUN.ML | Writer & Mentor
-[bit.ly/shogun-workshop](bit.ly/shogun-workshop
+[bit.ly/shogun-workshop](bit.ly/shogun-workshop)
 
 [bit.ly/GSoC17-data-project](bit.ly/GSoC17-data-project)
 
