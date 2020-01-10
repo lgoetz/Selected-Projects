@@ -2,7 +2,7 @@
 
 ### TWO-PLAYER BOARD GAME AI | Java framework
 
-[github.com/lgoetz/two-player-ai](github.com/lgoetz/two-player-ai)
+[github.com/lgoetz/two-player-ai](https://github.com/lgoetz/two-player-ai)
 
 I wrote an object-oriented Java framework for two-player board games, that can be used for any board and player class. I implemented different player classes, distinguished by their type of tree search algorithm – minimax, alpha-beta pruning, Monte Carlo tree search (MCTS) – and use heuristics to avoid full tree traversals for alpha-beta and MCTS players.
 
