@@ -20,7 +20,14 @@ I wrote a Jupyter notebook tutorial for three types of latent linear models – 
 I contributed to a hackathon predicting seizures from EEG time-series recordings of humans and dogs, using feature extraction and binary classification. We achieved the 9th place, published our results as Adam et al, 2015. Seizure Detection Challenge - The Fitzgerald team solution and were awarded a Honorable Mention at the 7th International Workshop on Seizure Prediction.
 
 
-## DATA SCIENCE PROJECTS
+## DATA PROJECTS
+
+### GSOC HEALTH DATA PROJECT | Mentoring Data analysis & prediction
+
+[bit.ly/GSoC17-data-project](https://gist.github.com/olinguyen/510f29a2dfeeca1aa30ac9bc2b474580)
+
+I mentored a Google Summer of Code student project for Shogun.ML, using electronic health records from intensive care unit patients to predict clinical outcomes.
+
 
 ### BIKE ROUTING APP | Data analysis & routing plug-in
 
