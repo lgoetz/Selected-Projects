@@ -6,6 +6,12 @@
 
 I wrote an object-oriented Java framework for two-player board games, that can be used for any board and player class. I implemented different player classes, distinguished by their type of tree search algorithm – minimax, alpha-beta pruning, Monte Carlo tree search (MCTS) – and use heuristics to avoid full tree traversals for alpha-beta and MCTS players.
 
+### MULTI-LAYER PERCEPTRON | Python/Tensorflow
+
+[https://bit.ly/mlpMNIST](https://gist.github.com/lgoetz/bbf2dc95d3dc1e86712096efed618847)
+
+I wrote a multi-layer perceptron from scratch (using Python + Tensorflow), to demonstrate how to write architecture, batching data and training loop. Demonstrated the use on dummy data and MNIST.
+
 ### LATENT LINEAR MODELS TUTORIAL | Python/Stan/Tensorflow
 
 [bit.ly/latent-linear-models](https://gist.github.com/lgoetz/790a5e1a5b20ad9473aaacdf96fa90de)
