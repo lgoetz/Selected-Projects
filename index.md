@@ -8,7 +8,7 @@ I wrote an object-oriented Java framework for two-player board games, that can b
 
 ### MULTI-LAYER PERCEPTRON | Python/Tensorflow
 
-[https://bit.ly/mlpMNIST](https://gist.github.com/lgoetz/bbf2dc95d3dc1e86712096efed618847)
+[https://bit.ly/mlp-MNIST](https://gist.github.com/lgoetz/bbf2dc95d3dc1e86712096efed618847)
 
 I wrote a multi-layer perceptron from scratch (using Python + Tensorflow), to demonstrate how to write architecture, batching data and training loop. Demonstrated the use on dummy data and MNIST.
 
