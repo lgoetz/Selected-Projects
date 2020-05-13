@@ -12,6 +12,13 @@ I wrote an object-oriented Java framework for two-player board games, that can b
 
 I wrote a multi-layer perceptron from scratch (using Python + Tensorflow), to demonstrate how to write architecture, batching data and training loop. Demonstrated the use on dummy data and MNIST.
 
+### CONVOLUTIONAL NEURAL NETWORK | Python/Tensorflow
+
+[https://bit.ly/cancerCNN](https://gist.github.com/lgoetz/a1c815c27797ef2bde2eff91f4f98b81)
+
+I built a convolutional neural network, to classify histological images of colorectal cancer. 
+
+
 ### LATENT LINEAR MODELS TUTORIAL | Python/Stan/Tensorflow
 
 [bit.ly/latent-linear-models](https://gist.github.com/lgoetz/790a5e1a5b20ad9473aaacdf96fa90de)
