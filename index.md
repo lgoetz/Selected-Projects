@@ -35,6 +35,12 @@ I contributed to a hackathon predicting seizures from EEG time-series recordings
 
 ## DATA PROJECTS
 
+### GSOC DISEASE PREDICTION PROJECT | Mentoring Disease prediction
+
+[GSoC20-data-project](https://github.com/shogun-toolbox/applications)
+
+I mentor a Google Summer of Code student project for Shogun.ML, using Wikipedia pageview data to model flu incidence.
+
 ### GSOC HEALTH DATA PROJECT | Mentoring Data analysis & prediction
 
 [bit.ly/GSoC17-data-project](https://gist.github.com/olinguyen/510f29a2dfeeca1aa30ac9bc2b474580)
